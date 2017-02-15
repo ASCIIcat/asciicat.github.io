@@ -30,7 +30,7 @@ description: "A place for my excess thoughts"
 
 ### [](#header-3) Blog:
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <p class="post-excerpt">
@@ -47,6 +47,8 @@ description: "A place for my excess thoughts"
     </li>
   {% endfor %}
 </ul>
+
+[All posts](./allposts)
 
 * * *
 
