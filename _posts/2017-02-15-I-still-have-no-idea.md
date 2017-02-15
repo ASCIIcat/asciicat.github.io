@@ -29,4 +29,4 @@ Last night was fun however, though I think I should hold off on the wine in the 
 
 * * *
 
-[back](https://asciicat.github.io)
+[back]({{ site.url }})
