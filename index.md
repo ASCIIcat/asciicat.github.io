@@ -8,6 +8,11 @@ description: "A place for my excess thoughts"
 
 > Here I generally rant about things.
 > Though sometimes I rave about other things.
+>
+>  ／l　
+>（ﾟ､ ｡ ７
+>　l、 ~ヽ　 .
+>　じしl_, )ノ
 
 <ul>
   {% for post in site.posts %}

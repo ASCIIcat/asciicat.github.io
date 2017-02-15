@@ -8,3 +8,12 @@ layout: default
 
 I have now spent the morning reading documentation and I still have no idea how Jekyll works.
 This may take a good portion of my day to get right...
+
+### UPDATE 10:48:00
+
+* * *
+
+I think I have figured it out... seems I was just not adding the ```ruby layout: default```
+That actually took almost an hour to figure out... Today is clearly going to be a slow day.
+
+Last night was fun however, though I think I should hold off on the wine in the middle of the week, it seems to affect my performance the morning after
