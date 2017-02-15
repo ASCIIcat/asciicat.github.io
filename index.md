@@ -29,6 +29,8 @@ description: "A place for my excess thoughts"
 * * *
 
 ### [](#header-3) Blog:
+> Only the most recent posts are shown
+
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
