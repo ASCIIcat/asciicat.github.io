@@ -1,7 +1,8 @@
 ---
 layout: page
-title: ASCIIcat's Dev Playground
+title: "ASCIIcat's Dev Playground"
 layout: default
+description: "A place for my excess thoughts"
 ---
 ## [](#header-2) Welcome to my mind
 
