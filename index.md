@@ -14,7 +14,9 @@ description: "A place for my excess thoughts"
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      
+      > {{ post.excerpt }}
+
     </li>
   {% endfor %}
 </ul>

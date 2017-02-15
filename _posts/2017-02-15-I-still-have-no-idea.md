@@ -7,7 +7,7 @@ layout: default
 excerpt_separator: <!--more-->
 ---
 
-### {{ page.title }}
+### {{ page.title }} - {{ page.date }}
 
 I have now spent the morning reading documentation and I still have no idea how Jekyll works.
 This may take a good portion of my day to get right...
