@@ -34,7 +34,7 @@ description: "A place for my excess thoughts"
 <ul>
   {% for post in site.posts limit:5 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.date }} - {{ post.title }}</a>
       <p class="post-excerpt">
 
         {% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
