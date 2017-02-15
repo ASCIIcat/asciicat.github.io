@@ -5,7 +5,7 @@ date: 2017-02-15 09:55:01 +0200
 categories: jekyll update
 layout: default
 ---
-[back](./)
+[back](https://asciicat.github.io)
 
 * * *
 
@@ -27,4 +27,4 @@ Last night was fun however, though I think I should hold off on the wine in the 
 
 * * *
 
-[back](./)
+[back](https://asciicat.github.io)
