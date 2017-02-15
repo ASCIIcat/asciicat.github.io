@@ -24,10 +24,6 @@ description: "A place for my excess thoughts"
 <dd>Animé</dd>
 <dd>Design</dd>
 <dd>Gaming</dd>
-<dt>Social</dt>
-<dd>
-  <a href="http://asciicatdesigns.deviantart.com/"><i class="fa fa-deviantart fa-2x" aria-hidden="true"></i></a> | <a href="https://github.com/asciicat"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a> | <a href="https://twitter.com/ASCIIcat_Jay"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a> | <a href="https://www.instagram.com/asciicatdesigns/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
-</dd>
 </dl>
 
 * * *
@@ -51,3 +47,9 @@ description: "A place for my excess thoughts"
     </li>
   {% endfor %}
 </ul>
+
+* * *
+
+### [](#header-3) Social Network Stuff:
+
+<a href="http://asciicatdesigns.deviantart.com/"><i class="fa fa-deviantart fa-2x" aria-hidden="true"></i></a> | <a href="https://github.com/asciicat"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a> | <a href="https://twitter.com/ASCIIcat_Jay"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a> | <a href="https://www.instagram.com/asciicatdesigns/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
