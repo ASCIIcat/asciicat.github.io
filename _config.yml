@@ -2,6 +2,3 @@ theme: jekyll-theme-hacker
 title: "ASCIIcat's Dev Playground"
 description: "A place for my excess thoughts"
 url: https://asciicat.github.io
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
