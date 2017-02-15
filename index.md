@@ -9,6 +9,8 @@ description: "A place for my excess thoughts"
 > Here I generally rant about things.
 > Though sometimes I rave about other things.
 
+* * *
+
 ### [](#header-3) About Me:
 
 <dl>
@@ -21,7 +23,19 @@ description: "A place for my excess thoughts"
 <dd>Photography</dd>
 <dd>Animé</dd>
 <dd>Design</dd>
+<dd>Gaming</dd>
+<dt>Social</dt>
+<dd>
+  <ul>
+    <li><a href="http://asciicatdesigns.deviantart.com/" target="_blank"><i class="fa fa-deviantart fa-2x" aria-hidden="true"></i></a></li>
+    <li><a href="https://github.com/asciicat" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></li>
+    <li><a href="https://twitter.com/ASCIIcat_Jay" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></li>
+    <li><a href="https://www.instagram.com/asciicatdesigns/" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></li>
+  </ul>
+</dd>
 </dl>
+
+* * *
 
 ### [](#header-3) Blog:
 <ul>
