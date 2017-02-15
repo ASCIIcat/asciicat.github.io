@@ -13,7 +13,10 @@ This may take a good portion of my day to get right...
 
 * * *
 
-I think I have figured it out... seems I was just not adding the ```ruby layout: default```
+I think I have figured it out... seems I was just not adding the
+```ruby
+layout: default
+```
 That actually took almost an hour to figure out... Today is clearly going to be a slow day.
 
 Last night was fun however, though I think I should hold off on the wine in the middle of the week, it seems to affect my performance the morning after
