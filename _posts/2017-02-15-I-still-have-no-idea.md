@@ -13,7 +13,8 @@ This may take a good portion of my day to get right...
 
 * * *
 
-I think I have figured it out... seems I was just not adding the
+I think I have figured it out... seems I was just not adding this:
+
 ```js
 layout: default
 ```
