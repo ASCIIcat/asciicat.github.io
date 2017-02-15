@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "I still have no idea"
+title: [I still have no idea]
 date: 2017-02-15 09:55:01 +0200
 categories: jekyll update
 layout: default
+excerpt_separator: <!--more-->
 ---
-[back](https://asciicat.github.io)
 
-* * *
-### {{ page.date }} - {{ page.title }}
+### {{ page.title }}
 
 I have now spent the morning reading documentation and I still have no idea how Jekyll works.
 This may take a good portion of my day to get right...
+
+<!--more-->
 
 ### UPDATE 10:48:00
 
