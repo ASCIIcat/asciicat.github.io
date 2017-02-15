@@ -28,9 +28,9 @@ description: "A place for my excess thoughts"
 <dd>
   <ul>
     <li><a href="http://asciicatdesigns.deviantart.com/"><i class="fa fa-deviantart fa-2x" aria-hidden="true"></i></a></li>
-    <li><a href="https://github.com/asciicat"><i class="fa fa-github fa-2x" aria-hidden="true"></i></li>
-    <li><a href="https://twitter.com/ASCIIcat_Jay"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></li>
-    <li><a href="https://www.instagram.com/asciicatdesigns/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></li>
+    <li><a href="https://github.com/asciicat"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
+    <li><a href="https://twitter.com/ASCIIcat_Jay"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+    <li><a href="https://www.instagram.com/asciicatdesigns/"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
   </ul>
 </dd>
 </dl>
