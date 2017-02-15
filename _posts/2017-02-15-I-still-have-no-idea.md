@@ -4,7 +4,7 @@ title: [I still have no idea]
 date: 2017-02-15 09:55:01 +0200
 categories: jekyll update
 layout: default
-excerpt_separator: <!--more-->
+modified_date: 2017-02-15 10:48:00 +0200
 ---
 [back]({{ site.url }})
 
@@ -19,7 +19,7 @@ I have now spent the morning reading documentation and I still have no idea how 
 This may take a good portion of my day to get right...
 <!--excerpt.end-->
 
-### UPDATE {{ 2017-02-15 10:48:00 +0200 }}
+### UPDATE {{ page.modified_date }}
 
 * * *
 
