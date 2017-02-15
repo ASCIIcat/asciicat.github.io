@@ -19,7 +19,7 @@ I have now spent the morning reading documentation and I still have no idea how 
 This may take a good portion of my day to get right...
 <!--excerpt.end-->
 
-### UPDATE 10:48:00
+### UPDATE {{ 2017-02-15 10:48:00 +0200 }}
 
 * * *
 
