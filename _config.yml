@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 title: "ASCIIcat's Dev Playground"
 description: "A place for my excess thoughts"
 url: https://asciicat.github.io
+google_analytics: UA-92080448-1
