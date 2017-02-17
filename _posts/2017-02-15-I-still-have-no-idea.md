@@ -5,6 +5,7 @@ date: 2017-02-15 09:55:01 +0200
 categories: jekyll update
 layout: default
 modified_date: 2017-02-15 10:48:00 +0200
+comments: true
 ---
 [back]({{ site.url }})
 
