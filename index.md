@@ -11,7 +11,7 @@ description: "A place for my excess thoughts"
 
 * * *
 
-### [](#header-3) [About Me]
+### [](#header-3) [about me]
 
 <dl>
 <dt>Name</dt>
@@ -28,7 +28,7 @@ description: "A place for my excess thoughts"
 
 * * *
 
-### [](#header-3) [Blog]
+### [](#header-3) [blog]
 > Only the most recent posts are shown
 
 <ul>
@@ -52,6 +52,6 @@ description: "A place for my excess thoughts"
 
 * * *
 
-### [](#header-3) [Social Network Stuff]
+### [](#header-3) [social network stuff]
 
 <a class="tooltip" href="http://steamcommunity.com/id/ASCIIcat" data-tooltip="ASCIIcat on Steam"><i class="fa fa-steam fa-2x" aria-hidden="true"></i></a> | <a class="tooltip" href="http://asciicatdesigns.deviantart.com/" data-tooltip="ASCIIcat on deviantArt"><i class="fa fa-deviantart fa-2x" aria-hidden="true"></i></a> | <a class="tooltip" href="https://github.com/asciicat" data-tooltip="ASCIIcat on GitHub"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a> | <a class="tooltip" href="https://twitter.com/ASCIIcat_Jay" data-tooltip="ASCIIcat on Twitter"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a> | <a class="tooltip" href="https://www.instagram.com/asciicatdesigns/" data-tooltip="ASCIIcat on Instagram"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
