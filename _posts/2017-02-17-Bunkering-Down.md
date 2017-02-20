@@ -4,6 +4,7 @@ title: [Bunkering Down]
 date: 2017-02-17 13:11:00 +0200
 categories: general life
 layout: default
+comments: true
 ---
 [back]({{ site.url }})
 
