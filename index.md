@@ -24,6 +24,7 @@ description: "A place for my excess thoughts"
 <dd>Animé</dd>
 <dd>Design</dd>
 <dd>Gaming</dd>
+<dd>日本</dd>
 </dl>
 
 * * *
