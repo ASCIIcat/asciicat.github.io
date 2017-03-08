@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/asciicat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://asciicat.github.io
+  * I am asciicat (https://keybase.io/asciicat) on keybase.
+  * I have a public key ASDJXS3trpso1u4RDDuKRkJgQbK44Ck8QiQLp0QTDjUoJwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120c95d2dedae9b28d6ee110c3b8a46426041b2b8e0293c42240ba744130e3528270a",
+            "host": "keybase.io",
+            "kid": "0120c95d2dedae9b28d6ee110c3b8a46426041b2b8e0293c42240ba744130e3528270a",
+            "uid": "5e6556f56ce87ea2a9e5dbfccc31cb19",
+            "username": "asciicat"
+        },
+        "service": {
+            "hostname": "asciicat.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488968051,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488967951,
+        "hash": "fb7fcf2b55438a1c76c07f07658606accb76d1eace8bd7cc94cfb3a7ddcc114fac081403c5603081758b81e5c0830983a7502ccb2086486e50d5a3977f315d63",
+        "seqno": 945934
+    },
+    "prev": "d3e12f47c1359334bb2b6f66e385bb92a7b8c23fcad0aa871cec510527c14830",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyV0t7a6bKNbuEQw7ikZCYEGyuOApPEIkC6dEEw41KCcKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzk1ZDJkZWRhZTliMjhkNmVlMTEwYzNiOGE0NjQyNjA0MWIyYjhlMDI5M2M0MjI0MGJhNzQ0MTMwZTM1MjgyNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzk1ZDJkZWRhZTliMjhkNmVlMTEwYzNiOGE0NjQyNjA0MWIyYjhlMDI5M2M0MjI0MGJhNzQ0MTMwZTM1MjgyNzBhIiwidWlkIjoiNWU2NTU2ZjU2Y2U4N2VhMmE5ZTVkYmZjY2MzMWNiMTkiLCJ1c2VybmFtZSI6ImFzY2lpY2F0In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhc2NpaWNhdC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4ODk2ODA1MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg4OTY3OTUxLCJoYXNoIjoiZmI3ZmNmMmI1NTQzOGExYzc2YzA3ZjA3NjU4NjA2YWNjYjc2ZDFlYWNlOGJkN2NjOTRjZmIzYTdkZGNjMTE0ZmFjMDgxNDAzYzU2MDMwODE3NThiODFlNWMwODMwOTgzYTc1MDJjY2IyMDg2NDg2ZTUwZDVhMzk3N2YzMTVkNjMiLCJzZXFubyI6OTQ1OTM0fSwicHJldiI6ImQzZTEyZjQ3YzEzNTkzMzRiYjJiNmY2NmUzODViYjkyYTdiOGMyM2ZjYWQwYWE4NzFjZWM1MTA1MjdjMTQ4MzAiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB9EOgFeMCmKbwZC8BzCULtXy3UP41TPuoZe6tLvapQqMvbXhwqfU8BsBRh7/8PnLoxRm4SzR2p6xEWPJ2SkSIEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgFt/W1YfGOb7PFApJJtb2OPDShnwDgXhHVwjqJ2VBno6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/asciicat
+
+==================================================================
