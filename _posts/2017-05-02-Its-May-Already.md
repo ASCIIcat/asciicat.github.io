@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Its May already?]
+title: [Its May already]
 date: 2017-05-02 09:55:01 +0200
 categories: life general
 layout: default
