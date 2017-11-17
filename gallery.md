@@ -8,7 +8,6 @@ sort_by:        modified_time   # modified_time or path (notice: path is case se
 date_format:    "%A, %B %-d, %Y"
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
