@@ -30,7 +30,9 @@ date_format:    "%A, %B %-d, %Y"
         {% assign img_date = img.modified_time | date: page.date_format %}
 
         <li class="ins-imgs-li" id="{{ img_name }}">
-                !["{{img_name}}"]("{{img.path}}")
+                <img src=".{{ img.path }}"
+                     alt="{{ img_name }}"
+                     style="max-width: {{ page.max_width }}"/>
         </li>
 
       {% endif %}
