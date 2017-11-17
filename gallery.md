@@ -32,14 +32,12 @@ date_format:    "%A, %B %-d, %Y"
     {% assign img_date = img.modified_time | date: page.date_format %}
 
     <li class="ins-imgs-li" id="{{ img_name }}">
-        <div class="ins-imgs-img" onclick=this.classList.toggle("zoom");>
             <a name="{{ img.path }}" href="#{{ img_name }}">
                 <img src=".{{ img.path }}"
                      alt="{{ img_name }}"
                      style="max-width: {{ page.max_width }}"/>
             </a>
         </div>
-        <div class="ins-imgs-label">Image name: {{ img_name }} (added {{ img_date }})</div>
     </li>
 
     {% endif %}
