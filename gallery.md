@@ -27,20 +27,15 @@ date_format:    "%A, %B %-d, %Y"
 
     {% assign imgs = (site.static_files | sort: page.sort_by) %}
     {% for img in imgs reversed %}
-    {% if img.path contains page.image_folder %}
-    {% assign img_name = img.path | remove: page.image_folder | split: '.' | first %}
-    {% assign img_date = img.modified_time | date: page.date_format %}
+      {% if img.path contains page.image_folder %}
+        {% assign img_name = img.path | remove: page.image_folder | split: '.' | first %}
+        {% assign img_date = img.modified_time | date: page.date_format %}
 
-    <li class="ins-imgs-li" id="{{ img_name }}">
-            <a name="{{ img.path }}" href="#{{ img_name }}">
-                <img src=".{{ img.path }}"
-                     alt="{{ img_name }}"
-                     style="max-width: {{ page.max_width }}"/>
-            </a>
-        </div>
-    </li>
+        <li class="ins-imgs-li" id="{{ img_name }}">
+                ![{{img_name}}]({{img.path}})
+        </li>
 
-    {% endif %}
+      {% endif %}
     {% endfor %}
 
 </ul>
