@@ -29,8 +29,11 @@ description: "A place for my excess thoughts"
 
 * * *
 
-### [](#header-3) [gallery]
+### [](#header-3) [gallery_of_scotty]
+> Some yob that I like to make edits of their selfies
+
 [View Gallery](./gallery)
+
 
 * * *
 

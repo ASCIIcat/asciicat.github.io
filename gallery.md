@@ -3,7 +3,6 @@ layout: page
 title: "Distilled Insanity Gallery"
 layout: default
 image_folder:   /images/gallery/
-max_width:      900px
 sort_by:        modified_time   # modified_time or path (notice: path is case sensitive)
 date_format:    "%A, %B %-d, %Y"
 ---
@@ -12,6 +11,7 @@ date_format:    "%A, %B %-d, %Y"
 
 
 ## [](#header-2) Gallery of Scotty
+> Some yob that I like to make edits of their selfies
 
 <ul class="ins-imgs">
 
