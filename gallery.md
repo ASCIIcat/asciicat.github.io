@@ -18,6 +18,11 @@ date_format:    "%A, %B %-d, %Y"
     <link rel="stylesheet" type="text/css" href="style/gallerystyle.css">
 </head>
 <body>
+[back]({{ site.url }})
+
+
+## [](#header-2) Gallery of Scotty
+
 <ul class="ins-imgs">
 
     {% assign imgs = (site.static_files | sort: page.sort_by) %}
@@ -42,8 +47,10 @@ date_format:    "%A, %B %-d, %Y"
 
 </ul>
 
+[back]({{ site.url }})
+
 <footer>
-    <a href="https://github.com/lthr/github-gallery" target="_blank">GitHub Gallery</a>
+    <a href="https://github.com/lthr/github-gallery" target="_blank">Powered by GitHub Gallery</a>
 </footer>
 </body>
 </html>
