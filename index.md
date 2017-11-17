@@ -29,6 +29,11 @@ description: "A place for my excess thoughts"
 
 * * *
 
+### [](#header-3) [gallery]
+[View Gallery](./gallery)
+
+* * *
+
 ### [](#header-3) [blog]
 > Only the most recent posts are shown
 
