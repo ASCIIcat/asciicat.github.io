@@ -13,7 +13,6 @@ date_format:    "%A, %B %-d, %Y"
 ## [](#header-2) Gallery of Scotty
 > Some yob that I like to make edits of their selfies
 
-<ul class="ins-imgs">
 
     {% assign imgs = (site.static_files | sort: page.sort_by) %}
     {% for img in imgs reversed %}
@@ -21,16 +20,14 @@ date_format:    "%A, %B %-d, %Y"
         {% assign img_name = img.path | remove: page.image_folder | split: '.' | first %}
         {% assign img_date = img.modified_time | date: page.date_format %}
 
-        <li class="ins-imgs-li" id="{{ img_name }}">
                 <img src=".{{ img.path }}"
                      alt="{{ img_name }}"
                      style="max-width: {{ page.max_width }}"/>
-        </li>
+                * * *
 
       {% endif %}
     {% endfor %}
 
-</ul>
 
 [back]({{ site.url }})
 
