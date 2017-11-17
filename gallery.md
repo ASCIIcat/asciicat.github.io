@@ -8,12 +8,10 @@ sort_by:        modified_time   # modified_time or path (notice: path is case se
 date_format:    "%A, %B %-d, %Y"
 ---
 
-<html lang="en">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style/gallerystyle.css">
 </head>
@@ -32,7 +30,7 @@ date_format:    "%A, %B %-d, %Y"
         {% assign img_date = img.modified_time | date: page.date_format %}
 
         <li class="ins-imgs-li" id="{{ img_name }}">
-                ![{{img_name}}]({{img.path}})
+                !["{{img_name}}"]("{{img.path}}")
         </li>
 
       {% endif %}
@@ -45,5 +43,3 @@ date_format:    "%A, %B %-d, %Y"
 <footer>
     <a href="https://github.com/lthr/github-gallery" target="_blank">Powered by GitHub Gallery</a>
 </footer>
-</body>
-</html>
