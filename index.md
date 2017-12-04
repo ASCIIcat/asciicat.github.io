@@ -4,7 +4,7 @@ title: "Distilled Insanity"
 layout: default
 description: "A place for my excess thoughts"
 ---
-## [](#header-2) Welcome to my mind_
+## [](#header-2) Welcome to my mind<span style="animation: 1.25s blink step-end infinite;">_ </span>
 
 > Here I generally rant about things.
 > Though sometimes I rave about other things.
