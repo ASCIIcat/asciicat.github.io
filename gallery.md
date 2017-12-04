@@ -33,7 +33,3 @@ date_format:    "%A, %B %-d, %Y"
 </ul>
 
 [back]({{ site.url }})
-
-<footer>
-    <a href="https://github.com/lthr/github-gallery" target="_blank">Powered by GitHub Gallery</a>
-</footer>
