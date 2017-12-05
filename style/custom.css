@@ -45,6 +45,14 @@ a:hover{
   animation: 1.25s blink step-end infinite;
 }
 
+.typer{
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: 30s typing steps(30, end) infinite;
+}
+
 @keyframes blink{
   from,to{
     opacity:0;
@@ -53,6 +61,20 @@ a:hover{
   50%{
     opacity:1;
     -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  }
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+  20%, 100% {
+    width: 100%;
+  }
+  0% {
+    width: 0
+  }
+  10% {
+    width: 100%;
   }
 }
 
