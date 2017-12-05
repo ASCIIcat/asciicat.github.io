@@ -62,10 +62,10 @@ a:hover{
   content: "~\\$ ";
 }
 
-.typer::after{
+/*.typer::after{
   content: "_ ";
   animation: 1.25s blink step-end infinite;
-}
+}*/
 
 @keyframes blink{
   from,to{
