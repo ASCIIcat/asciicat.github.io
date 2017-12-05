@@ -79,8 +79,8 @@ a:hover{
 }
 
 @keyframes blink-caret {
-  from, to { border-style: hidden; }
-  50% { border-style: solid; }
+  from, to { border-right: .15em hidden;}
+  50% { border-right: .15em solid; }
 }
 
 @keyframes typing {
