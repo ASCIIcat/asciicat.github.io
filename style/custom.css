@@ -45,7 +45,7 @@ a:hover{
   animation: 1.25s blink step-end infinite;
 }
 
-#-welcome-to-my-mind header h2{
+h2#-welcome-to-my-mind{
   width: 63%;
 }
 
