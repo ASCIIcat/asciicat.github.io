@@ -45,6 +45,10 @@ a:hover{
   animation: 1.25s blink step-end infinite;
 }
 
+#-welcome-to-my-mind header h2{
+  width: 63%;
+}
+
 .typer{
   display: flex;
   overflow: hidden;
