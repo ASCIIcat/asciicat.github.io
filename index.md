@@ -4,7 +4,7 @@ title: "Distilled Insanity"
 layout: default
 description: "A place for my excess thoughts"
 ---
-## [](#header-2) ~/$ <span class="typer">Welcome to my mind</span><span class="blinker">_ </span>
+## [](#header-2) <span class="typer">Welcome to my mind</span>
 
 > Here I generally rant about things.
 > Though sometimes I rave about other things.

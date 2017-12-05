@@ -46,11 +46,22 @@ a:hover{
 }
 
 .typer{
+  display: flex;
   overflow: hidden;
   white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .15em;
-  animation: 30s typing steps(30, end) infinite;
+  animation:
+    typing 30s steps(30, end) infinite;
+}
+
+.typer::before{
+  content: "~\\$ ";
+}
+
+.typer::after{
+  content: "_ ";
+  animation: 1.25s blink step-end infinite;
 }
 
 @keyframes blink{
