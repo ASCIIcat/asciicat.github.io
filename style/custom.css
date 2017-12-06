@@ -1,3 +1,5 @@
+@import "compass/css3";
+
 .tooltip {
   position: relative;
   font-weight: bolder;
@@ -103,7 +105,7 @@ h2#-welcome-to-my-mind{
 
 /************ Glitchy Text *********************/
 
-@import "compass/css3";
+
 
 .glitch{
   color:#b5e853;
@@ -146,13 +148,123 @@ h2#-welcome-to-my-mind{
     transform: scale(1 - random(3)/100)
   }
 }
-@keyframes noise-anim{
-  $steps:20;
-  @for $i from 0 through $steps{
-    #{percentage($i*(1/$steps))}{
-      clip:rect(random(100)+px,9999px,random(100)+px,0);
-      text-shadow:(random(20)-10+px) (random(20)-10+px)  (random(40)+px) rgba(255,255,255,.8);
-    }
+@keyframes noise-zoom {
+  0% {
+    transform: scale(0.98);
+  }
+  10% {
+    transform: scale(0.97);
+  }
+  20% {
+    transform: scale(0.99) skew(-4deg, 0);
+  }
+  30% {
+    transform: scale(0.97);
+  }
+  40% {
+    transform: scale(0.98);
+  }
+  50% {
+    transform: scale(0.98);
+  }
+  60% {
+    transform: scale(0.97);
+  }
+  70% {
+    transform: scale(0.98);
+  }
+  80% {
+    transform: scale(0.97);
+    transform: scale(0.98) skew(-random(10)deg, 0);
+  }
+  90% {
+    transform: scale(0.98);
+  }
+}
+@keyframes noise-anim {
+  0% {
+    clip: rect(60px, 9999px, 94px, 0);
+    text-shadow: 4px 1px 28px rgba(255, 255, 255, 0.8);
+  }
+  5% {
+    clip: rect(7px, 9999px, 80px, 0);
+    text-shadow: 2px -1px 12px rgba(255, 255, 255, 0.8);
+  }
+  10% {
+    clip: rect(83px, 9999px, 74px, 0);
+    text-shadow: -9px 9px 19px rgba(255, 255, 255, 0.8);
+  }
+  15% {
+    clip: rect(77px, 9999px, 45px, 0);
+    text-shadow: -9px -2px 6px rgba(255, 255, 255, 0.8);
+  }
+  20% {
+    clip: rect(1px, 9999px, 29px, 0);
+    text-shadow: 7px -7px 24px rgba(255, 255, 255, 0.8);
+  }
+  25% {
+    clip: rect(31px, 9999px, 31px, 0);
+    text-shadow: -4px 10px 32px rgba(255, 255, 255, 0.8);
+  }
+  30% {
+    clip: rect(91px, 9999px, 70px, 0);
+    text-shadow: -5px 2px 14px rgba(255, 255, 255, 0.8);
+  }
+  35% {
+    clip: rect(83px, 9999px, 78px, 0);
+    text-shadow: 1px 6px 28px rgba(255, 255, 255, 0.8);
+  }
+  40% {
+    clip: rect(98px, 9999px, 22px, 0);
+    text-shadow: 10px -4px 32px rgba(255, 255, 255, 0.8);
+  }
+  45% {
+    clip: rect(97px, 9999px, 39px, 0);
+    text-shadow: -2px -7px 25px rgba(255, 255, 255, 0.8);
+  }
+  50% {
+    clip: rect(45px, 9999px, 43px, 0);
+    text-shadow: 8px 5px 38px rgba(255, 255, 255, 0.8);
+  }
+  55% {
+    clip: rect(99px, 9999px, 84px, 0);
+    text-shadow: 9px -4px 5px rgba(255, 255, 255, 0.8);
+  }
+  60% {
+    clip: rect(86px, 9999px, 31px, 0);
+    text-shadow: 1px 9px 37px rgba(255, 255, 255, 0.8);
+  }
+  65% {
+    clip: rect(29px, 9999px, 74px, 0);
+    text-shadow: 3px -8px 31px rgba(255, 255, 255, 0.8);
+  }
+  70% {
+    clip: rect(93px, 9999px, 46px, 0);
+    text-shadow: 9px -3px 38px rgba(255, 255, 255, 0.8);
+  }
+  75% {
+    clip: rect(19px, 9999px, 20px, 0);
+    text-shadow: -7px 1px 35px rgba(255, 255, 255, 0.8);
+  }
+  80% {
+    clip: rect(50px, 9999px, 55px, 0);
+    text-shadow: -6px -4px 38px rgba(255, 255, 255, 0.8);
+  }
+  85% {
+    clip: rect(79px, 9999px, 55px, 0);
+    text-shadow: 7px 7px 7px rgba(255, 255, 255, 0.8);
+  }
+  90% {
+    clip: rect(53px, 9999px, 5px, 0);
+    text-shadow: 2px 8px 18px rgba(255, 255, 255, 0.8);
+  }
+  95% {
+    clip: rect(46px, 9999px, 51px, 0);
+    text-shadow: 10px -6px 37px rgba(255, 255, 255, 0.8);
+  }
+  100% {
+    clip: rect(13px, 9999px, 17px, 0);
+    text-shadow: -9px -6px 6px rgba(255, 255, 255, 0.8);
   }
 }
 .glitch:after{
@@ -168,15 +280,93 @@ h2#-welcome-to-my-mind{
   animation:noise-anim 5s infinite linear alternate-reverse;
 }
 
-@keyframes noise-anim-2{
-  $steps:20;
-  @for $i from 0 through $steps{
-    #{percentage($i*(1/$steps))}{
-      clip:rect(random(100)+px,9999px,random(100)+px,0);
-      text-shadow:(random(20)-10+px) (random(20)-10+px)  (random(40)+px) rgba(random(255),random(255),random(255),.6);
-    }
+@keyframes noise-anim-2 {
+  0% {
+    clip: rect(22px, 9999px, 46px, 0);
+    text-shadow: -4px -9px 4px rgba(145, 159, 124, 0.6);
+  }
+  5% {
+    clip: rect(13px, 9999px, 1px, 0);
+    text-shadow: 3px -6px 11px rgba(210, 236, 93, 0.6);
+  }
+  10% {
+    clip: rect(29px, 9999px, 57px, 0);
+    text-shadow: -1px 8px 13px rgba(214, 149, 209, 0.6);
+  }
+  15% {
+    clip: rect(17px, 9999px, 54px, 0);
+    text-shadow: 9px 4px 19px rgba(116, 109, 208, 0.6);
+  }
+  20% {
+    clip: rect(53px, 9999px, 61px, 0);
+    text-shadow: 3px 1px 25px rgba(103, 136, 89, 0.6);
+  }
+  25% {
+    clip: rect(14px, 9999px, 37px, 0);
+    text-shadow: -8px 3px 20px rgba(223, 132, 151, 0.6);
+  }
+  30% {
+    clip: rect(50px, 9999px, 62px, 0);
+    text-shadow: 9px 4px 32px rgba(65, 147, 146, 0.6);
+  }
+  35% {
+    clip: rect(91px, 9999px, 70px, 0);
+    text-shadow: 6px 0px 5px rgba(125, 176, 113, 0.6);
+  }
+  40% {
+    clip: rect(53px, 9999px, 65px, 0);
+    text-shadow: -9px 9px 19px rgba(182, 222, 71, 0.6);
+  }
+  45% {
+    clip: rect(50px, 9999px, 27px, 0);
+    text-shadow: 6px 8px 20px rgba(60, 64, 217, 0.6);
+  }
+  50% {
+    clip: rect(14px, 9999px, 22px, 0);
+    text-shadow: -6px -4px 22px rgba(202, 155, 184, 0.6);
+  }
+  55% {
+    clip: rect(79px, 9999px, 59px, 0);
+    text-shadow: -3px -3px 23px rgba(26, 240, 104, 0.6);
+  }
+  60% {
+    clip: rect(64px, 9999px, 25px, 0);
+    text-shadow: 2px -4px 31px rgba(158, 137, 73, 0.6);
+  }
+  65% {
+    clip: rect(71px, 9999px, 78px, 0);
+    text-shadow: 9px 4px 26px rgba(110, 42, 164, 0.6);
+  }
+  70% {
+    clip: rect(87px, 9999px, 16px, 0);
+    text-shadow: -5px 7px 28px rgba(101, 153, 79, 0.6);
+  }
+  75% {
+    clip: rect(99px, 9999px, 73px, 0);
+    text-shadow: -8px -1px 1px rgba(180, 222, 251, 0.6);
+  }
+  80% {
+    clip: rect(58px, 9999px, 84px, 0);
+    text-shadow: 7px -4px 27px rgba(251, 31, 114, 0.6);
+  }
+  85% {
+    clip: rect(17px, 9999px, 90px, 0);
+    text-shadow: 10px -8px 26px rgba(109, 21, 105, 0.6);
+  }
+  90% {
+    clip: rect(19px, 9999px, 91px, 0);
+    text-shadow: 9px 9px 22px rgba(76, 101, 70, 0.6);
+  }
+  95% {
+    clip: rect(17px, 9999px, 30px, 0);
+    text-shadow: -6px -2px 34px rgba(214, 171, 98, 0.6);
+  }
+  100% {
+    clip: rect(68px, 9999px, 100px, 0);
+    text-shadow: 1px -2px 5px rgba(142, 252, 94, 0.6);
   }
 }
+
 .glitch:before{
   content:attr(data-text);
   position:absolute;
