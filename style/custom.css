@@ -107,9 +107,9 @@ h2#-welcome-to-my-mind{
 
 .glitch{
   color:#b5e853;
-  font-size:100px;
+  /*font-size:100px;*/
   position:relative;
-  width:400px;
+  /*width:400px;*/
   margin:0 auto;
   animation:noise-zoom 10s infinite linear alternate-reverse;
 }
