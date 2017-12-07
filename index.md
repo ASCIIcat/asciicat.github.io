@@ -6,8 +6,8 @@ description: "A place for my excess thoughts"
 ---
 ## [](#header-2) <span class="typer">Welcome to my mind</span>
 
-> Here I generally rant about things.
-> Though sometimes I rave about other things.
+> It is a dangerous place to be wondering around.
+> Are you sure you really want to know how I tick?
 
 * * *
 
