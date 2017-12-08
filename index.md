@@ -18,13 +18,8 @@ description: "A place for my excess thoughts"
 <dd>Jay</dd>
 <dt>Alias</dt>
 <dd>ASCIIcat</dd>
-<dt>Interests</dt>
-<dd>Web Technology</dd>
-<dd>Photography</dd>
-<dd>Animé</dd>
-<dd>Design</dd>
-<dd>Gaming</dd>
-<dd>日本</dd>
+<dt>Bio</dt>
+<dd>I make stuff, but usually fix a lot of stuff that was never mine to begin with.</dd>
 </dl>
 
 * * *
