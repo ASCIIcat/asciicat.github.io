@@ -8,8 +8,12 @@
     <link href="style/custom.css" rel="stylesheet" >
     <title>{{ site.title }}</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.css"/>
-    <script src="https://cdn.jsdelivr.net/npm/simplebar@latest/dist/simplebar.min.js"></script>
+    <script src="dist/smooth-scrollbar.js"></script>
+    <script>
+      var Scrollbar = window.Scrollbar;
+
+      Scrollbar.init(document.querySelector('#my-scrollbar'));
+    </script>
   </head>
 
   <body data-simplebar>
