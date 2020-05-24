@@ -53,9 +53,9 @@
     <script>
     $( document ).ready(function() {
       $.getJSON('https://api.ipify.org?format=json', function(data) {
-        $('.ipaddress').innerHTML = data.ip;
+        $('.ipaddress').html(data.ip);
       });
-      $('.datetime').innerHTML = new Date().toUTCString();
+      $('.datetime').html(new Date().toUTCString());
     });
     </script>
   </body>
