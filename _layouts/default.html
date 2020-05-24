@@ -53,8 +53,7 @@
     <script>
     $( document ).ready(function() {
       $.getJSON('https://api.ipify.org?format=json', function(data) {
-        var obj = JSON.parse(data);
-        $('.ipaddress').innerHTML = obj.ip;
+        $('.ipaddress').innerHTML = data.ip;
       });
       $('.datetime').innerHTML = new Date().toUTCString();
     });
