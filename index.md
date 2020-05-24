@@ -9,6 +9,12 @@ description: "A place for my excess thoughts"
 > It is a dangerous place to be wondering around.
 > Are you sure you really want to know how I tick?
 
+·▄▄▄▄  ▪  .▄▄ · ▄▄▄▄▄▪  ▄▄▌  ▄▄▌  ▄▄▄ .·▄▄▄▄  ▪   ▐ ▄ .▄▄ ·  ▄▄▄·  ▐ ▄ ▪  ▄▄▄▄▄ ▄· ▄▌
+██▪ ██ ██ ▐█ ▀. •██  ██ ██•  ██•  ▀▄.▀·██▪ ██ ██ •█▌▐█▐█ ▀. ▐█ ▀█ •█▌▐███ •██  ▐█▪██▌
+▐█· ▐█▌▐█·▄▀▀▀█▄ ▐█.▪▐█·██▪  ██▪  ▐▀▀▪▄▐█· ▐█▌▐█·▐█▐▐▌▄▀▀▀█▄▄█▀▀█ ▐█▐▐▌▐█· ▐█.▪▐█▌▐█▪
+██. ██ ▐█▌▐█▄▪▐█ ▐█▌·▐█▌▐█▌▐▌▐█▌▐▌▐█▄▄▌██. ██ ▐█▌██▐█▌▐█▄▪▐█▐█ ▪▐▌██▐█▌▐█▌ ▐█▌· ▐█▀·.
+▀▀▀▀▀• ▀▀▀ ▀▀▀▀  ▀▀▀ ▀▀▀.▀▀▀ .▀▀▀  ▀▀▀ ▀▀▀▀▀• ▀▀▀▀▀ █▪ ▀▀▀▀  ▀  ▀ ▀▀ █▪▀▀▀ ▀▀▀   ▀ •
+
 Welcome to distilled_Insanity
 
 distilled_Insanity 6.6.6 LTS
