@@ -9,17 +9,18 @@ description: "A place for my excess thoughts"
 > It is a dangerous place to be wondering around.
 > Are you sure you really want to know how I tick?
 
-▓█████▄  ██▓  ██████ ▄▄▄█████▓ ██▓ ██▓     ██▓    ▓█████ ▓█████▄  ██▓ ███▄    █   ██████  ▄▄▄       ███▄    █  ██▓▄▄▄█████▓▓██   ██▓
-▒██▀ ██▌▓██▒▒██    ▒ ▓  ██▒ ▓▒▓██▒▓██▒    ▓██▒    ▓█   ▀ ▒██▀ ██▌▓██▒ ██ ▀█   █ ▒██    ▒ ▒████▄     ██ ▀█   █ ▓██▒▓  ██▒ ▓▒ ▒██  ██▒
-░██   █▌▒██▒░ ▓██▄   ▒ ▓██░ ▒░▒██▒▒██░    ▒██░    ▒███   ░██   █▌▒██▒▓██  ▀█ ██▒░ ▓██▄   ▒██  ▀█▄  ▓██  ▀█ ██▒▒██▒▒ ▓██░ ▒░  ▒██ ██░
-░▓█▄   ▌░██░  ▒   ██▒░ ▓██▓ ░ ░██░▒██░    ▒██░    ▒▓█  ▄ ░▓█▄   ▌░██░▓██▒  ▐▌██▒  ▒   ██▒░██▄▄▄▄██ ▓██▒  ▐▌██▒░██░░ ▓██▓ ░   ░ ▐██▓░
-░▒████▓ ░██░▒██████▒▒  ▒██▒ ░ ░██░░██████▒░██████▒░▒████▒░▒████▓ ░██░▒██░   ▓██░▒██████▒▒ ▓█   ▓██▒▒██░   ▓██░░██░  ▒██▒ ░   ░ ██▒▓░
- ▒▒▓  ▒ ░▓  ▒ ▒▓▒ ▒ ░  ▒ ░░   ░▓  ░ ▒░▓  ░░ ▒░▓  ░░░ ▒░ ░ ▒▒▓  ▒ ░▓  ░ ▒░   ▒ ▒ ▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░░ ▒░   ▒ ▒ ░▓    ▒ ░░      ██▒▒▒
- ░ ▒  ▒  ▒ ░░ ░▒  ░ ░    ░     ▒ ░░ ░ ▒  ░░ ░ ▒  ░ ░ ░  ░ ░ ▒  ▒  ▒ ░░ ░░   ░ ▒░░ ░▒  ░ ░  ▒   ▒▒ ░░ ░░   ░ ▒░ ▒ ░    ░     ▓██ ░▒░
- ░ ░  ░  ▒ ░░  ░  ░    ░       ▒ ░  ░ ░     ░ ░      ░    ░ ░  ░  ▒ ░   ░   ░ ░ ░  ░  ░    ░   ▒      ░   ░ ░  ▒ ░  ░       ▒ ▒ ░░  
-   ░     ░        ░            ░      ░  ░    ░  ░   ░  ░   ░     ░           ░       ░        ░  ░         ░  ░            ░ ░     
- ░                                                        ░                                                                 ░ ░     
- 
+Welcome to distilled_Insanity
+
+distilled_Insanity 6.6.6 LTS
+
+server    : 666
+ip        : <span class="ipaddress"></span>
+hostname  : asciicat.xyz
+
+37 packages can be updated.
+26 updates are security updates.
+
+Last login: <span class=".datetime"></span> from <span class="ipaddress"></span>
 * * *
 
 ### [](#header-3) [<span class="glitch" data-text="about_me">about_me</span>]
