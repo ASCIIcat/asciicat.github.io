@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [Lockdown Day 58]
-date: 2020-05-22 03:56:26 +0200
+date: 2020-05-24 03:56:26 +0200
 categories: post categories
 layout: default
 comments: true
