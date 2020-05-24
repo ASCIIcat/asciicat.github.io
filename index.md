@@ -4,11 +4,6 @@ title: "Distilled Insanity"
 layout: default
 description: "A place for my excess thoughts"
 ---
-## [](#header-2) <span class="typer">Welcome to my mind</span>
-
-> It is a dangerous place to be wondering around.
-> Are you sure you really want to know how I tick?
-
 Welcome to distilled_Insanity
 <br>
 <br>
@@ -28,6 +23,12 @@ hostname  : asciicat.xyz
 <br>
 <br>
 Last login: <span class="datetime"></span> from <span class="ipaddress"></span>
+
+## [](#header-2) <span class="typer">Welcome to my mind</span>
+
+> It is a dangerous place to be wondering around.
+> Are you sure you really want to know how I tick?
+
 * * *
 
 ### [](#header-3) [<span class="glitch" data-text="about_me">about_me</span>]
